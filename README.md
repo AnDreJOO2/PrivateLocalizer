@@ -7,4 +7,4 @@ You can add pins on your locations to save them on the list. Then you can check 
 Last but not least you can check the weather on your current location.
 
 I was inspired by YT tutorials and docs with maps and wanted to try if I can use these tools and build an app to pass the final project in my studies.
-I coded 50/50 english polish.
+I coded it 50/50 english polish.
